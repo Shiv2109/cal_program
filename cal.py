@@ -26,6 +26,7 @@ match val:
         print("div of two num", div(num1, num2))
     case 5:
         print("Updated one")
+        print("second update one")
         print("Exit")
 
 
